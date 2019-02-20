@@ -1,2 +1,2 @@
 # FullStackValles
-Lightning Talk
+Codegram's Lightning Talk slides, Terrassa on 19th February 2019.
